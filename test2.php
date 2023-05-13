@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
-    <link rel="stylesheet" href="css/Login_Page.css">
+    <title>Register</title>
+    <link rel="stylesheet" href="css/test2.css">
   </head>
 
   <body>
@@ -14,7 +14,22 @@
       <div class="form-box">
         <div class="form-value">
           <form action="">
-            <h2>Login</h2>
+            <h2>Register</h2>
+            <div class="inputbox">
+              <ion-icon name="person-outline"></ion-icon>
+              <input type="name" required>
+              <label for="">Full Name</label>
+            </div>
+            <!-- <div class="forget">
+              <label for="">
+                <input type="radio"> Male
+              </label>
+              <label for="">
+                <input type="radio"> Female
+              </label>
+              <ion-icon name="transgender-outline"></ion-icon>
+            </div> -->
+            
             <div class="inputbox">
               <ion-icon name="mail-outline"></ion-icon>
               <input type="email" required>
@@ -26,18 +41,12 @@
               <input type="password" required>
               <label for="">Password</label>
             </div>
-            
-            <div class="forget">
-              <label for="">
-                <input type="checkbox"> Remember <a href="#">Forget Password</a>
-              </label>
-            </div>
 
-            <button>Log in</button>
+            <button>Sign Up</button>
             <div class="register">
               <p>
-                Don't have an account
-                <a href="test2.php#">Register</a>
+                I already have an account
+                <a href="test.php#">-> Log in</a>
               </p>
             </div>
           </form>
