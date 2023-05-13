@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>İLFE.Haber</title>
-    <link rel="stylesheet" href="css/Proje.css">
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
   </head>
 
@@ -32,7 +32,7 @@
                 Hakkımızda & İletişim
               </a>
             </nav>
-            <a class="Login-button" href="test.php#" title="login-page" target="_blank">
+            <a class="Login-button" href="login.php#" title="login-page">
               <ion-icon name="person-circle-outline"></ion-icon>
               Login / Register
               <ion-icon name="person-add-outline"></ion-icon>
