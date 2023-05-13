@@ -55,7 +55,7 @@ if (isset($_POST["submit"])) {
               <div class="register">
                 <p>
                   I already have an account
-                  <a href="login.php#">-> Log in</a>
+                  <a href="login.php#"> > Log in <</a>
                 </p>
               </div>
             </form>
