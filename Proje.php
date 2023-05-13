@@ -11,66 +11,56 @@
   </head>
 
   <body>
-    <div class="header-container">
-      <header>
-        <h1>İLFE HABER</h1>
-        <a class="Login-button" href="test.php#" title="login-page" target="_blank">
-          <ion-icon name="person-circle-outline"></ion-icon>
-          Login / Register
-          <ion-icon name="person-add-outline"></ion-icon>
-        </a>
-          <nav>
-            <ul>
-              <li>
-                <a href="#" title="Anasayfa" target="_self">
-                  Anasayfa
-                </a>
-              </li>
-              <li>
-                <a href="#" title="Dünya kupası" target="_self">
-                  Dünya kupası
-                </a>
-              </li>
-              <li>
-                <a href="#" title="Oyuncuların Hayat Özti" target="_self"> <!-- _blank -->
-                  Hayat Özti
-                </a>
-              </li>
-              <li>
-                <a href="#" title="Favori Oyuncular Listesi" target="_self">
-                  Favorilerim
-                </a>
-              </li>
-              <li>
-                <a href="#" title="Hakkımızda & İletişim" target="_self" onclick="showElement()">
-                  Hakkımızda & İletişim
-                </a>
-              </li>
-            </ul>
-          </nav>
-      </header>
-    </div>  
-
-    <script type="text/javascript" src="Proje.js"></script>
-    <div id="myElement" class="hidden">
-      <footer>
-        <div class="iletisim">
-          <p>iletişim</p>
-          <a href="https://www.facebook.com/profile.php?id=100012463111932" target="_blank">
-            <i class="fa-brands fa-facebook"></i>
-          </a>
-          <a href="https://www.youtube.com/channel/UCcepN48Nslzt_MoXj_6m3Dg" target="_blank">
-            <i class="fa-brands fa-youtube"></i>
-          </a>
-          <a href="https://twitter.com/ilyaselabed" target="_blank">
-            <i class="fa-brands fa-twitter"></i>
-          </a>
-          <a href="https://www.instagram.com/1alabed0/" target="_blank">
-            <i class="fa-brands fa-instagram"></i>
-          </a>
-        </div>
-      </footer>
-    </div>
+  <section>
+      <div class="header-container">
+        <header>
+          <h1 class="header-title">İLFE HABER</h1>
+            <nav class="navbar">
+              <a href="#" class="navbar-link" title="Anasayfa" target="_self">
+                Anasayfa
+              </a>  
+              <a href="#" class="navbar-link" title="Dünya kupası" target="_self">
+                Dünya kupası
+              </a>
+              <a href="#" class="navbar-link" title="Oyuncuların Hayat Özti" target="_self"> <!-- _blank -->
+                Hayat Özti
+              </a>
+              <a href="#" class="navbar-link" title="Favori Oyuncular Listesi" target="_self">
+                Favorilerim
+              </a>
+              <a href="#" class="navbar-link" title="Hakkımızda & İletişim" target="_self" onclick="showElement()">
+                Hakkımızda & İletişim
+              </a>
+            </nav>
+            <a class="Login-button" href="test.php#" title="login-page" target="_blank">
+              <ion-icon name="person-circle-outline"></ion-icon>
+              Login / Register
+              <ion-icon name="person-add-outline"></ion-icon>
+            </a>
+        </header>
+      </div>  
+  
+      <script type="text/javascript" src="Proje.js"></script>
+      <div id="myElement" class="hidden">
+        <footer>
+          <div class="iletisim">
+            <p>iletişim</p>
+            <a href="https://www.facebook.com/profile.php?id=100012463111932" target="_blank">
+              <i class="fa-brands fa-facebook"></i>
+            </a>
+            <a href="https://www.youtube.com/channel/UCcepN48Nslzt_MoXj_6m3Dg" target="_blank">
+              <i class="fa-brands fa-youtube"></i>
+            </a>
+            <a href="https://twitter.com/ilyaselabed" target="_blank">
+              <i class="fa-brands fa-twitter"></i>
+            </a>
+            <a href="https://www.instagram.com/1alabed0/" target="_blank">
+              <i class="fa-brands fa-instagram"></i>
+            </a>
+          </div>
+        </footer>
+      </div>
+    </section>
   </body>
   <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
   <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
