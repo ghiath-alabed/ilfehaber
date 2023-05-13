@@ -1,0 +1,119 @@
+body{
+  padding: 0;
+  margin: 0;
+  color: white;
+  font-family: Arial;
+}
+a{
+  text-decoration: none;
+}
+h2{
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 15px;
+}
+hr {
+  border: 1px solid rgb(214, 207, 207);
+}
+
+.body{
+  background: linear-gradient(to right, #3c0303, #8a0f0f, #c22828, #af5863, #c22828, #8a0f0f, #3c0303);
+  padding-top: 5px;
+}
+
+/* The navigation bar */
+.navbar {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  background-color: #333;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: 55px;
+}
+.navbar h2 {
+  margin-right: auto;
+  padding-left: 10px;
+}
+/* .search-bar {
+  margin-left: auto;
+  margin-right: 550px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+} */
+.search-container {
+  display: flex;
+  align-items: center;
+  width: 20%;
+  max-width: 50%;
+  margin-right: 37%;
+  padding: 5px;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+}
+.search-icon {
+  color: black;
+  cursor: pointer;
+  margin-right: 2%;
+}
+.search-bar {
+  flex-grow: 1;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  display: none; /* hide the search bar by default */
+}
+/* show the search bar when the icon is   hovered */
+.search-icon:hover + .search-bar, .search-icon:active +.search-bar{
+  display: block;
+}
+.fa-street-view {
+  color: red;
+  float: right;
+  padding-right: 20px;
+}
+
+/* The buttons */
+.button1{
+  margin-left: 11%; /*200px*/
+  text-align: center;
+  display: inline-block;
+  background-color: inherit;
+  color: black;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: opacity 0.15s;
+}
+.button1:hover{
+  background-color: black;
+  color: white;
+}
+.button1:active{
+  opacity: 0.4;
+}
+
+/* contact information */
+.iletisim{
+  padding-top: 15px;
+  padding-left: 20px;
+  /* position: absolute;
+  bottom: 0px; */
+}
+.iletisim a i.fa-facebook {
+  color: #3b5998;
+}
+.iletisim a i.fa-youtube {
+  color: #c4302b;
+}
+.iletisim a i.fa-twitter {
+  color: #1da1f2;
+}
+.iletisim a i.fa-instagram {
+  color: #c13584;
+}
