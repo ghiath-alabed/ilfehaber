@@ -22,12 +22,12 @@
           <nav>
             <ul>
               <li>
-                <a href="http://127.0.0.1:5500/denemeler/Haber.html" title="Anasayfa" target="_blank">
+                <a href="#" title="Anasayfa" target="_self">
                   Anasayfa
                 </a>
               </li>
               <li>
-                <a href="http://127.0.0.1:5500/denemeler/Haber1.html" title="Dünya kupası" target="_blank">
+                <a href="#" title="Dünya kupası" target="_self">
                   Dünya kupası
                 </a>
               </li>
