@@ -33,6 +33,7 @@ if (isset($_POST["submit"])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <link rel="stylesheet" href="css/form.css">
+    <link rel="icon" href="css/images/icon.png" type="image/x-icon">
   </head>
 
   <body>
