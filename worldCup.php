@@ -36,11 +36,8 @@
               <a href="#" class="navbar-link" title="Dünya kupası" target="_self">
                 Dünya kupası
               </a>
-              <a href="#" class="navbar-link" title="Oyuncuların Hayat Özti" target="_self"> <!-- _blank -->
+              <a href="biography.php" class="navbar-link" title="Oyuncuların Hayat Özti" target="_self"> <!-- _blank -->
                 Hayat Özti
-              </a>
-              <a href="#" class="navbar-link" title="Hakkımızda & İletişim" target="_self" onclick="showElement()">
-                Hakkımızda & İletişim
               </a>
             </nav>
             <div>
@@ -67,6 +64,12 @@
                           <div class="dropdown-content Login-button">
                             <a href="#" onclick="logout()">Logout</a>
                           </div>
+                          <div class="dropdown-content Login-button" style="margin-top: 42px;">
+                            <a href="#" title="Hakkımızda" onclick="showElement()">
+                            <ion-icon name="help-circle-outline"></ion-icon>
+                              Hakkımızda
+                            </a>
+                          </div>
                       </div>';
                     }
                   } else {
@@ -83,7 +86,7 @@
       </div>  
   
       <script type="text/javascript" src="Proje.js"></script>
-      <div id="myElement" class="hidden">
+      <div id="myElement">  <!-- class="hidden" -->
         <footer>
           <div class="iletisim">
             <p>iletişim</p>

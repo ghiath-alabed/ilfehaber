@@ -130,16 +130,19 @@ p{
   color: white;
 }
 .iletisim{
+  border: 2px solid rgba(255,255,255,0.5);
+  border-radius: 20px;
+  backdrop-filter: blur(15px);
+  transition: background-color 0.3s ease;
   font-size: 1.3rem;
   position: fixed;
   bottom: 0;
   left: 0;
-  width: 100%;
   padding: 20px;
 }
 .iletisim a i.fa-facebook {
   font-size: 1.2rem;
-  color: #3b5998;
+  color: #6789d3;
 }
 .iletisim a i.fa-youtube {
   font-size: 1.2rem;
@@ -154,7 +157,7 @@ p{
   color: #c13584;
 }
 .iletisim i:hover, #myElement a{ /*#acdbdf*/ /*#010101*/ /*f0ece2*/
-  background-color: black;
+  background-color: transparent;
 }
 .hidden {
   display: none;
