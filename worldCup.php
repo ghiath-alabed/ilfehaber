@@ -64,7 +64,7 @@
                           <div class="dropdown-content Login-button">
                             <a href="#" onclick="logout()">Logout</a>
                           </div>
-                          <div class="dropdown-content Login-button" style="margin-top: 42px;">
+                          <div class="dropdown-content Login-button" style="margin-top: 45px;">
                             <a href="#" title="Hakkımızda" onclick="showElement()">
                             <ion-icon name="help-circle-outline"></ion-icon>
                               Hakkımızda
