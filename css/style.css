@@ -20,16 +20,20 @@ h1 {
 }
 
 .header-title {
-  font-size: 24px;
+  border: 3px solid rgba(255,255,255,0.5);
+  border-radius: 25px;
+  backdrop-filter: blur(15px);
+  transition: background-color 0.3s ease;
+  font-size: 20px;
   color: #fff;
 }
 .navbar {
   position: relative;
   background-color: transparent;
   border: 3px solid rgba(255,255,255,0.5);
-  border-radius: 20px;
+  border-radius: 25px;
   backdrop-filter: blur(15px);
-  padding: 10px;
+  padding: 12px;
   display: flex;
   justify-content: flex-end;
 }
@@ -60,7 +64,7 @@ a:active{
 }
 
 .Login-button {
-  font-size: 1em;
+  font-size: 1.1em;
   border: none;
   padding: 10px;
   min-width: 160px;
@@ -94,7 +98,7 @@ a:active{
 
 .dropdown-content {
   display: none;
-  margin-top: 3px;
+  margin-top: 2.5px;
   position: absolute;
   min-width: 160px;
   max-width: 160px;
@@ -104,6 +108,8 @@ a:active{
 .dropdown-content a {
   cursor: pointer;
   display: block;
+  font-weight: bold;
+  font-size: 1.1rem;
   text-align: center;
   padding: 0;
 }
@@ -135,7 +141,6 @@ p{
   position: fixed;
   bottom: 0;
   left: 0;
-  width: 100%;
   padding: 20px;
 }
 .iletisim a i.fa-facebook {

@@ -12,8 +12,11 @@
       body {
         font-family: Arial;
         background-color: white;
-        background: url('css/images/login-register-background.jpg') no-repeat center center fixed;
+        background: url('css/images/Home-wallpaper.jpg') no-repeat center center fixed;
         background-size: cover;
+      }
+      .dropdown-content a {
+        color: black;
       }
     </style>
   </head>
@@ -59,7 +62,7 @@
                           <div class="dropdown-content Login-button">
                             <a href="#" onclick="logout()">Logout</a>
                           </div>
-                          <div class="dropdown-content Login-button" style="margin-top: 45px;">
+                          <div class="dropdown-content Login-button" style="margin-top: 47px;">
                             <a href="#" title="Hakkımızda" onclick="showElement()">
                             <ion-icon name="help-circle-outline"></ion-icon>
                               Hakkımızda

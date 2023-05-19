@@ -12,8 +12,14 @@
       body {
         font-family: Arial;
         background-color: white;
-        background: url('css/images/login-register-background.jpg') no-repeat center center fixed;
+        background: url('css/images/biography-wallpaper.jpg') no-repeat center center fixed;
         background-size: cover;
+      }
+      .iletisim{
+        border: 0.1px solid rgba(255,255,255,0.5);
+        border-radius: 20px;
+        backdrop-filter: blur(15px);
+        transition: background-color 0.3s ease;
       }
     </style>
   </head>
@@ -58,7 +64,7 @@
                           <div class="dropdown-content Login-button">
                             <a href="#" onclick="logout()">Logout</a>
                           </div>
-                          <div class="dropdown-content Login-button" style="margin-top: 45px;">
+                          <div class="dropdown-content Login-button" style="margin-top: 47px;">
                             <a href="#" title="Hakkımızda" onclick="showElement()">
                             <ion-icon name="help-circle-outline"></ion-icon>
                               Hakkımızda
