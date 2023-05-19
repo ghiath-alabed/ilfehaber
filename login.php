@@ -1,5 +1,6 @@
 <?php
 include_once 'includes/dbh.inc.php';
+session_start();
 
 if (isset($_POST["submit"])) {
     $email = $_POST["email"];
@@ -11,7 +12,7 @@ if (isset($_POST["submit"])) {
     if (mysqli_num_rows($result) > 0) {
         // User exists, continue and navigate to the index
         $row = mysqli_fetch_assoc($result);
-        $id = $row['id'];
+        $_SESSION["id"] = $row['id'];
         header("Location: index.php?id=$id");
         exit();
     } else {

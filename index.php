@@ -33,11 +33,35 @@
                 Hakkımızda & İletişim
               </a>
             </nav>
-            <a class="Login-button" href="login.php#" title="login-page">
-              <ion-icon name="person-circle-outline"></ion-icon>
-              Login / Register
-              <ion-icon name="person-add-outline"></ion-icon>
-            </a>
+            <div>
+              <?php
+                include_once 'includes/dbh.inc.php';
+                session_start();
+                if (isset($_SESSION["id"])) {
+                  $id = $_SESSION["id"];
+                  echo "<script>console.log('$id');</script>";
+                  $sql = "SELECT * FROM User WHERE id = '$id'";
+                  $result = mysqli_query($conn, $sql);
+                  if (mysqli_num_rows($result) > 0) {
+                    // User exists, continue and navigate to the index
+                    $row = mysqli_fetch_assoc($result);
+                    $email = $row['email'];
+                    $username = $row['username'];
+                    echo "<script src=\"js/Proje.js\"></script>";
+                    // Here add header html
+                    echo "<a class=\"Login-button\" onclick=\"logout()\">
+                        Logout '$username'
+                    </a>";
+                  }
+                } else {
+                    echo '<a class="Login-button" href="login.php#" title="login-page">
+                      <ion-icon name="person-circle-outline"></ion-icon>
+                        Login / Register
+                      <ion-icon name="person-add-outline"></ion-icon>
+                    </a>';
+                }
+              ?>
+            </div>
         </header>
       </div>  
   
