@@ -80,6 +80,9 @@ footer {
   margin-top: 50px;
   padding-top: 20px;
 }
+p{
+  color: white;
+}
 .iletisim{
   font-size: 1.3rem;
   position: fixed;
@@ -105,7 +108,7 @@ footer {
   color: #c13584;
 }
 .iletisim i:hover, #myElement a{ /*#acdbdf*/ /*#010101*/ /*f0ece2*/
-  background-color: #f0ece2;
+  background-color: black;
 }
 .hidden {
   display: none;
