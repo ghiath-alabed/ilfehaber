@@ -59,7 +59,7 @@
                           <div class="dropdown-content Login-button">
                             <a href="#" onclick="logout()">Logout</a>
                           </div>
-                          <div class="dropdown-content Login-button" style="margin-top: 42px;">
+                          <div class="dropdown-content Login-button" style="margin-top: 45px;">
                             <a href="#" title="Hakkımızda" onclick="showElement()">
                             <ion-icon name="help-circle-outline"></ion-icon>
                               Hakkımızda
@@ -84,7 +84,7 @@
       <div id="myElement">  <!-- class="hidden" -->
         <footer>
           <div class="iletisim">
-            <p>iletişim</p>
+            <p>Iletişim</p>
             <a href="https://www.facebook.com/profile.php?id=100012463111932" target="_blank">
               <i class="fa-brands fa-facebook"></i>
             </a>
