@@ -8,6 +8,7 @@
     <title>İLFE.Haber</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="icon" href="css/images/icon.png" type="image/x-icon">
     <style>
       body {
         font-family: Arial;
