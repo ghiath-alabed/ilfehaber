@@ -29,13 +29,13 @@
           <h1 class="header-title">İLFE HABER</h1>
             <nav class="navbar">
               <a href="#" class="navbar-link" title="Anasayfa" target="_self">
-                Anasayfa
+                Home
               </a>  
               <a href="worldCup.php" class="navbar-link" title="Dünya kupası" target="_self">
-                Dünya kupası
+                World Cup
               </a>
               <a href="biography.php" class="navbar-link" title="Oyuncuların Hayat Özti" target="_self"> <!-- _blank -->
-                Hayat Özti
+                Biography
               </a>
               
             </nav>
@@ -66,7 +66,7 @@
                           <div class="dropdown-content Login-button" style="margin-top: 47px;">
                             <a href="contact.php" onclick="showElement()">
                             <ion-icon name="help-circle-outline"></ion-icon>
-                              Hakkımızda
+                              About Us
                             </a>
                           </div>
                       </div>';
