@@ -113,7 +113,6 @@ a:active{
   text-align: center;
   padding: 0;
 }
-
 .dropdown-content a:hover {
   color: red;
 }
@@ -124,6 +123,34 @@ a:active{
 
 .dropdown:hover .dropbtn {
   color: red;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75vh;
+  
+}
+.contact-box{
+  margin: 10px;
+  width: 400px;
+  height: 450px;
+  background-color: transparent;
+  border: 3px solid rgba(255,255,255,0.5);
+  border-radius: 20px;
+  backdrop-filter: blur(15px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 75px;
+}
+.contact-box:first-child {
+  margin-right: 10px;
+}
+
+.contact-box:last-child {
+  margin-left: 10px;
 }
 
 

@@ -18,7 +18,6 @@ if (isset($_POST["submit"])) {
     } else {
         // User doesn't exist, show error message
         $errorMessage = "Username or password doesn't match.";
-        echo "<script>console.log('Debug Objects: " . $errorMessage . "' );</script>";
     }
 }
 ?>

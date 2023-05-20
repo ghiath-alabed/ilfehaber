@@ -22,6 +22,18 @@
         backdrop-filter: blur(15px);
         transition: background-color 0.3s ease;
       }
+      .biography-cards {
+        width: 300px;
+        display: block;
+        cursor: pointer;
+
+      }
+      .video-preview {
+        width: 300px;
+        display: inline-block;
+        vertical-align: top;
+        margin-right: 15px;
+      }
     </style>
   </head>
 
@@ -66,7 +78,7 @@
                             <a href="#" onclick="logout()">Logout</a>
                           </div>
                           <div class="dropdown-content Login-button" style="margin-top: 47px;">
-                            <a href="#" onclick="showElement()">
+                            <a href="contact.php" onclick="showElement()">
                             <ion-icon name="help-circle-outline"></ion-icon>
                               Hakkımızda
                             </a>
@@ -85,7 +97,17 @@
             </div>
         </header>
       </div>  
-  
+      
+      <div class="video-preview">
+        <a href="index.php">
+          <img class="biography-cards" src="css/images/messi-card.png" alt="Messi Biography">
+        </a>
+        <a href="your-link-url">
+          <img class="biography-cards" src="css/images/messi-card.png" alt="Messi Biography">
+        </a>
+      </div>
+
+
       <script type="text/javascript" src="Proje.js"></script>
       <div id="myElement">  <!-- class="hidden" -->
         <footer>

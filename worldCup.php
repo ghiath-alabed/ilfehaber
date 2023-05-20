@@ -60,7 +60,7 @@
                             <a href="#" onclick="logout()">Logout</a>
                           </div>
                           <div class="dropdown-content Login-button" style="margin-top: 47px;">
-                            <a href="#" onclick="showElement()">
+                            <a href="contact.php" onclick="showElement()">
                             <ion-icon name="help-circle-outline"></ion-icon>
                               Hakkımızda
                             </a>
