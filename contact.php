@@ -13,7 +13,7 @@
       body {
         font-family: Arial;
         background-color: white;
-        background: url('css/images/the-last-of-us-part-ii-ellie-playstation-4-2020-games-3840x2160-1879.jpg') no-repeat center center fixed;
+        background: url('css/images/contact-wallpaper.jpg') no-repeat center center fixed;
         background-size: cover;
       }
       .dropdown-content a {
@@ -21,6 +21,21 @@
       }
       h2{
         color: white;
+        position: absolute;
+        top: 20px; /* Adjust the top value as needed */
+        left: 46%;
+        transform: translateX(-40%);
+        padding: 5px 10px;
+      }
+      p:first-child {
+        font-family: Arial;
+        font-weight: bold;
+        font-size: 25px;
+        margin-top: 50px;
+      }
+      .iletisim p{
+        color: black;
+        font-family: Times;
       }
     </style>
   </head>
@@ -40,7 +55,6 @@
               <a href="biography.php" class="navbar-link" title="Oyuncuların Hayat Özti" target="_self"> <!-- _blank -->
                 Hayat Özti
               </a>
-              
             </nav>
             <div>
               <?php
@@ -91,6 +105,10 @@
         <div class="contact-box">
           <h2>Ghiath Alabed</h2>
           <div id="myElement">
+            <p>Tel: 05511463625</p>
+            <p style="font-family: Arial; font-weight: bold; font-size: 20px;">
+              Email: 030121069@std.izu.edu.tr
+            </p>
             <footer>
               <div class="iletisim">
                 <p>Iletişim</p>
@@ -113,6 +131,10 @@
         <div class="contact-box">
           <h2>Feras Semihoğlu</h2>
           <div id="myElement">
+            <p>Tel: 05050119920</p>
+            <p style="font-family: Arial; font-weight: bold; font-size: 20px;">
+              Email: 030121012@std.izu.edu.tr
+            </p>
             <footer>
               <div class="iletisim">
                 <p>Iletişim</p>
