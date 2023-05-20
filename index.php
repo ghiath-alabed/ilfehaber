@@ -30,7 +30,7 @@
             <nav class="navbar">
               <a href="#" class="navbar-link" title="Anasayfa" target="_self">
                 Home
-              </a>  
+              </a>
               <a href="worldCup.php" class="navbar-link" title="Dünya kupası" target="_self">
                 World Cup
               </a>
