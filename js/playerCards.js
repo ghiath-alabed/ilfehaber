@@ -2,53 +2,47 @@ var players = [
   {
     name: 'Lionel Messi',
     image: 'css/images/Messi-Card.png',
-    link: 'index.php'
-  },
-  {
-    name: 'Neymar',
-    image: 'css/images/Neymar-Card.png',
-    link: 'worldCup.php'
+    link: 'biographies/Messi.php'
   },
   {
     name: 'CR7',
     image: 'css/images/CR7-Card.png',
-    link: 'worldCup.php'
-  }
-  ,
+    link: 'biographies/CR7.php'
+  },
+  {
+    name: 'Neymar',
+    image: 'css/images/Neymar-Card.png',
+    link: 'biographies/Neymar.php'
+  },
   {
     name: 'Mbappe',
     image: 'css/images/Mbappe-Card.png',
-    link: 'worldCup.php'
-  }
-  ,
-  {
-    name: 'Griezmann',
-    image: 'css/images/Griezmann-Card.png',
-    link: 'worldCup.php'
-  }
-  ,
-  {
-    name: 'Ramos',
-    image: 'css/images/Ramos-Card.png',
-    link: 'worldCup.php'
-  }
-  ,
+    link: 'biographies/Mbappe.php'
+  },
   {
     name: 'Ibrahimovic',
     image: 'css/images/Ibrahimovic-Card.png',
-    link: 'worldCup.php'
-  }
-  ,
+    link: 'biographies/Ibrahimovic.php'
+  },
+  {
+    name: 'Griezmann',
+    image: 'css/images/Griezmann-Card.png',
+    link: 'biographies/Griezmann.php'
+  },
   {
     name: 'Suarez',
     image: 'css/images/Suarez-Card.png',
-    link: 'worldCup.php'
-  }
-  ,
+    link: 'biographies/Suarez.php'
+  },
+  {
+    name: 'Ramos',
+    image: 'css/images/Ramos-Card.png',
+    link: 'biographies/Ramos.php'
+  },
   {
     name: 'Pique',
     image: 'css/images/Pique-Card.png',
-    link: 'worldCup.php'
+    link: 'biographies/Pique.php'
   }
 ];
 
