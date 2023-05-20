@@ -9,7 +9,7 @@ if (isset($_POST["submit"])) {
     mysqli_query($conn, $sql);
 
     $id = mysqli_insert_id($conn);
-
+    $_SESSION["id"] = $id;
     header("Location: index.php?id=$id");
     exit();
 }

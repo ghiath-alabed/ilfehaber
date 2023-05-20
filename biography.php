@@ -22,18 +22,6 @@
         backdrop-filter: blur(15px);
         transition: background-color 0.3s ease;
       }
-      .biography-cards {
-        width: 300px;
-        display: block;
-        cursor: pointer;
-
-      }
-      .video-preview {
-        width: 300px;
-        display: inline-block;
-        vertical-align: top;
-        margin-right: 15px;
-      }
     </style>
   </head>
 
@@ -96,17 +84,33 @@
               ?>
             </div>
         </header>
-      </div>  
-      
-      <div class="video-preview">
-        <a href="index.php">
-          <img class="biography-cards" src="css/images/messi-card.png" alt="Messi Biography">
-        </a>
-        <a href="your-link-url">
-          <img class="biography-cards" src="css/images/messi-card.png" alt="Messi Biography">
-        </a>
       </div>
+      
+      <div class="card-preview">
+        <div class="card-container">
+          <a href="index.php">
+            <img class="biography-cards" id="previous-card" src="css/images/messi-card.png">
+          </a>
+        </div>
+        <div class="card-container">
+          <a href="your-link-url">
+            <img class="biography-cards" id="current-card" src="css/images/neymar-card.png">
+          </a>
+        </div>
+        <div class="card-container">
+          <a href="your-link-url">
+            <img class="biography-cards" id="next-card" src="css/images/default-card.png">
+          </a>
+        </div>
+      </div>
+      
+      <div class="button-container">
+          <button class="Prvs-Nxt-button" onclick="previousPlayer()">Previous</button>
+          <button class="Prvs-Nxt-button" onclick="nextPlayer()">Next</button>
+      </div>
+      
     </section>
+    <script src="js/playerCards.js"></script>
   </body>
   <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
   <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>

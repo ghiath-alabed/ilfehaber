@@ -154,6 +154,65 @@ a:active{
   margin-left: 10px;
 }
 
+.card-preview {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Card-Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 85vh;
+  opacity: 0.4;
+  margin: 0 10px;
+  transition: opacity 0.3s;
+}
+.card-container.current {
+  opacity: 1;
+}
+
+.card-container.previous {
+  transform: scale(0.8);
+  opacity: 0.6;
+}
+
+.card-container.next {
+  transform: scale(0.8);
+  opacity: 0.6;
+}
+.biography-cards {
+  width: 350px; /* Adjust this value as per your image size */
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.Prvs-Nxt-button{
+  margin-top: 10px; /* Adjust this value to add spacing between buttons */
+  font-size: 1.1em;
+  font-weight: bold;
+  padding: 10px;
+  min-width: 160px;
+  max-width: 160px;
+  cursor: pointer;
+  background-color: rgb(62, 128, 190);
+  color: black;
+  border: 5px solid rgba(62, 128, 190, 0.5);
+  border-radius: 20px;
+  transition: background-color 0.3s ease;
+}
+.Prvs-Nxt-button:hover{
+  background-color: transparent;
+
+  border: 3px solid rgba(255,255,255,0.5);
+  backdrop-filter: blur(15px);
+  color: rgb(62, 128, 190);
+}
 
 footer {
   position: relative;

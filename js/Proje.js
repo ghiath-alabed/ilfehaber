@@ -12,4 +12,3 @@ const logout = () => {
   };
   xhr.send();
 }
-
