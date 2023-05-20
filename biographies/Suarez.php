@@ -19,6 +19,9 @@
       .dropdown-content a {
         color: black;
       }
+      .player-name{
+        color: white;
+      }
     </style>
   </head>
 
@@ -37,7 +40,6 @@
               <a href="../biography.php" class="navbar-link" title="Oyuncuların Hayat Özti" target="_self"> <!-- _blank -->
                 Biography
               </a>
-              
             </nav>
             <div>
               <?php
@@ -82,6 +84,24 @@
               ?>
             </div>
         </header>
+      </div>
+
+      <div class="ozet-container">
+        <div class="ozet-box">
+          <h2 class="player-name">LUIS SUAREZ</h2>
+          <div class="ozet-metni">
+            <p class="text">
+              Luis Suárez, 24 Ocak 1987'de Uruguay'ın Salto şehrinde doğdu. Futbola yerel bir kulüp olan Nacional'in altyapısında başladı. Genç yaşta gösterdiği yeteneklerle dikkat çeken Suárez, 2005 yılında Nacional'in A takımına yükseldi.
+              2006 yılında Hollanda'nın Groningen kulübüne transfer olan Suárez, burada etkileyici bir performans sergiledi ve gol atan yeteneğiyle ön plana çıktı. Performansıyla dikkat çeken Suárez, 2007 yılında Eredivisie'nin güçlü takımlarından Ajax'a transfer oldu.
+              Ajax'ta oynadığı dönemde Suárez, Hollanda'da futbol kariyerini daha da parlattı. Hücum hattında etkili bir oyuncu olarak göze çarpan Suárez, gol krallığına ulaştı ve Ajax ile birlikte Eredivisie şampiyonluğunu yaşadı.
+              2011 yazında İngiliz kulübü Liverpool'a transfer olan Suárez, burada da büyük başarılar elde etti. Liverpool formasıyla birçok gol attı ve takımının liderlerinden biri haline geldi. 2013-2014 sezonunda Premier League'de büyük bir performans sergileyerek gol kralı oldu ve Liverpool'u şampiyonluğa taşıma çabasıyla hatırlanır.
+              2014 yılında İspanyol devi Barcelona'ya transfer olan Suárez, Barcelona ile büyük bir başarı yaşadı. Lionel Messi ve Neymar ile birlikte oluşturdukları "MSN" üçlüsüyle ünlendi ve Barcelona'yı birçok kupa kazanmada etkili oldu. Barcelona ile La Liga, Copa del Rey, UEFA Şampiyonlar Ligi ve FIFA Kulüpler Dünya Kupası gibi önemli başarıları elde etti.
+              Uruguay Milli Takımı'nın da önemli bir oyuncusu olan Suárez, milli formayı birçok kez giydi. 2011 Copa America'da Uruguay'ın şampiyonluğunda önemli bir rol oynadı. Ayrıca 2010 ve 2014 FIFA Dünya Kupası'nda da ülkesini başarıyla temsil etti.
+              Luis Suárez, hızlı ve teknik bir forvet oyuncusu olarak tanınır. Güçlü vuruşları, gol atan becerileri ve rakip savunmaları zorlayan oyun tarzıyla bilinir. Aynı zamanda mücadeleci ve tutkulu bir oyuncudur.
+              Suárez, futbol kariyeri boyunca birçok önemli kulüpte başarılar elde etmiş bir futbolcudur. Hem kulüp düzeyinde hem de milli takım düzeyinde önemli maçlarda ve turnuvalarda etkili performanslar sergilemiştir. Olağanüstü yetenekleriyle tanınan Suárez, futbol dünyasında iz b
+            </p>
+          </div>
+        </div>
       </div>
     </section>
   </body>

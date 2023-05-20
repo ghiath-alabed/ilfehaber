@@ -37,7 +37,6 @@
               <a href="../biography.php" class="navbar-link" title="Oyuncuların Hayat Özti" target="_self"> <!-- _blank -->
                 Biography
               </a>
-              
             </nav>
             <div>
               <?php
@@ -82,6 +81,22 @@
               ?>
             </div>
         </header>
+      </div>
+
+      <div class="ozet-container">
+        <div class="ozet-box">
+          <h2 class="player-name">GERARD PIQUE</h2>
+          <div class="ozet-metni">
+            <p class="text">
+              Gerard Piqué, 2 Şubat 1987'de İspanya'nın Barselona şehrinde doğdu. Futbola FC Barcelona'nın altyapısında başladı. Genç yaşlarda gösterdiği yeteneklerle dikkat çekti ve hızla yükselen bir futbol kariyerine sahip oldu.
+              Piqué, 2004 yılında FC Barcelona'nın A takımına yükseldi. İlk dönemlerinde oyun tecrübesi kazanmak için Manchester United'a kiralık olarak gönderildi ve burada Premier League şampiyonluğu yaşadı. 2008 yılında FC Barcelona'ya geri döndü ve takımının başarılarına büyük katkıda bulundu.
+              Barcelona formasıyla birçok başarıya imza atan Piqué, 2008-2009 sezonunda UEFA Şampiyonlar Ligi şampiyonluğunu, 2009-2010 ve 2010-2011 sezonlarında La Liga şampiyonluklarını, 2009, 2012, 2015 ve 2019 yıllarında ise Copa del Rey zaferlerini yaşadı. Ayrıca 2009 ve 2011 yıllarında FIFA Kulüpler Dünya Kupası'nı kazandı.
+              Milli takım düzeyinde, Gerard Piqué İspanya Milli Takımı formasını giydi. 2010 FIFA Dünya Kupası'nda İspanya'nın şampiyonluğunu yaşayan takımda önemli bir rol oynadı. Ayrıca 2012 ve 2016 yıllarında UEFA Avrupa Şampiyonası'nda da şampiyonluk sevinci yaşadı.
+              Piqué, güçlü fiziği, iyi bir top kontrolü ve pozisyon bilinciyle tanınır. Defans hattında liderlik özellikleri gösteren bir oyuncu olarak sahada etkili bir şekilde pozisyon alır. Ayrıca hava topu mücadelelerinde de başarılıdır. Kariyeri boyunca defansif gücünü ve top dağıtma becerilerini göstermiş bir futbolcudur.
+              Gerard Piqué, FC Barcelona'nın sembol isimlerinden biri haline gelmiştir. Kulüp ile birçok önemli başarı yaşayan ve milli takımda da ülkesini en iyi şekilde temsil eden bir futbolcudur. Hem kulüp düzeyinde hem de milli takım düzeyinde kazandığı şampiyonluklarla futbol kariyerinde iz bırakmıştır.
+            </p>
+          </div>
+        </div>
       </div>
     </section>
   </body>

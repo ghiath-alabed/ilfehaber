@@ -19,6 +19,9 @@
       .dropdown-content a {
         color: black;
       }
+      .player-name{
+        color: white;
+      }
     </style>
   </head>
 
@@ -37,7 +40,6 @@
               <a href="../biography.php" class="navbar-link" title="Oyuncuların Hayat Özti" target="_self"> <!-- _blank -->
                 Biography
               </a>
-              
             </nav>
             <div>
               <?php
@@ -82,6 +84,22 @@
               ?>
             </div>
         </header>
+      </div>
+
+      <div class="ozet-container">
+        <div class="ozet-box">
+          <h2 class="player-name">ANTOINE GRIEZMANN</h2>
+          <div class="ozet-metni">
+            <p class="text">
+              Antoine Griezmann, 21 Mart 1991'de Fransa'nın Mâcon şehrinde doğdu. Futbola küçük yaşta başladı ve Fransa'nın Real Sociedad kulübünün altyapısında yetişti. 2009 yılında Real Sociedad'ın A takımına yükseldi ve burada etkileyici bir performans sergileyerek dikkat çekti.
+              Griezmann, Real Sociedad'da oynadığı dönemde önemli bir gelişim kaydetti. Hızlı, çevik ve teknik bir oyuncu olarak tanınmaya başladı. 2013-2014 sezonunda La Liga'da 16 gol atarak dikkatleri üzerine çekti ve Avrupa'nın önde gelen kulüplerinin ilgisini çekti.
+              2014 yazında Griezmann, İspanyol devi Atlético Madrid'e transfer oldu. Atlético Madrid formasıyla hücum hattında etkili bir oyuncu oldu ve takımının başarılarına katkıda bulundu. 2014 ve 2016 UEFA Şampiyonlar Ligi finallerinde takımıyla mücadele etti ve 2018 UEFA Avrupa Ligi'ni kazanma başarısı gösterdi.
+              Milli takım düzeyinde, Griezmann Fransa Milli Takımı'nın önemli bir oyuncusu haline geldi. 2016 UEFA Avrupa Şampiyonası'nda Fransa'yı finale taşıdı ve turnuvanın en iyi oyuncusu seçildi. Ayrıca 2018 FIFA Dünya Kupası'nda Fransa Milli Takımı'nın şampiyonluğunu yaşadı ve altın top ödülüne layık görüldü.
+              2019 yazında Griezmann, FC Barcelona'ya transfer oldu. Barcelona formasıyla La Liga'da mücadele etti ve takımının hücum hattında önemli bir rol üstlendi. Griezmann, Barcelona'da hücum becerileri, gol atma yeteneği ve takım oyunculuğuyla tanınır.
+              Antoine Griezmann, sahip olduğu hız, çeviklik ve teknik becerileriyle tanınan etkileyici bir futbolcudur. Top kontrolü, şut yeteneği ve gol atmada etkili olmasıyla ön plana çıkar. Kariyeri boyunca birçok önemli maçta ve turnuvada başarılı performanslar sergileyen Griezmann, Fransa ve Barcelona'nın önemli oyuncularından biri olarak kabul edilir.
+            </p>
+          </div>
+        </div>
       </div>
     </section>
   </body>

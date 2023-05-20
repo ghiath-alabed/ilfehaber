@@ -19,6 +19,9 @@
       .dropdown-content a {
         color: black;
       }
+      .player-name{
+        color: white;
+      }
     </style>
   </head>
 
@@ -37,7 +40,6 @@
               <a href="../biography.php" class="navbar-link" title="Oyuncuların Hayat Özti" target="_self"> <!-- _blank -->
                 Biography
               </a>
-              
             </nav>
             <div>
               <?php
@@ -82,6 +84,22 @@
               ?>
             </div>
         </header>
+      </div>
+
+      <div class="ozet-container">
+        <div class="ozet-box">
+          <h2 class="player-name">SERGIO RAMOS</h2>
+          <div class="ozet-metni">
+            <p class="text">
+              Sergio Ramos, 30 Mart 1986'da İspanya'nın Camas şehrinde doğdu. Futbola Sevilla'nın altyapısında başladı. Genç yaşta gösterdiği yeteneklerle dikkat çeken Ramos, 2004 yılında Sevilla'nın A takımına yükseldi.
+              Ramos, Sevilla'da geçirdiği iki sezon boyunca hızla yükselen bir futbol kariyerine sahip oldu. Defans hattında etkileyici performanslar sergiledi ve kısa sürede dünya futbolunun dikkatini çekti. 2005-2006 sezonunda Sevilla ile UEFA Kupası'nı kazandı ve takımının başarısında önemli bir rol oynadı.
+              2005 yazında Real Madrid'e transfer olan Ramos, burada da başarılarını sürdürdü. Real Madrid formasıyla birçok kupa kazandı. UEFA Şampiyonlar Ligi'ni dört kez, La Liga'yı beş kez, Copa del Rey'yi iki kez ve FIFA Kulüpler Dünya Kupası'nı dört kez kazandı. Real Madrid'de uzun yıllar boyunca takımın kaptanlığını da üstlendi.
+              Milli takım düzeyinde de Sergio Ramos, İspanya Milli Takımı'nın önemli bir oyuncusu haline geldi. 2008 ve 2012 yıllarında UEFA Avrupa Şampiyonası'nda şampiyonluk yaşadı. Ayrıca 2010 FIFA Dünya Kupası'nda da İspanya Milli Takımı'nın şampiyonluğunda büyük rol oynadı.
+              Ramos, defansif becerilerinin yanı sıra gol atma yeteneğiyle de tanınır. Güçlü hava topu mücadeleleri ve sert müdahaleleriyle rakipleri üzerinde baskı kurar. Aynı zamanda liderlik özellikleri gösteren bir oyuncudur ve takımın savunma hattında önemli bir figürdür.
+              Sergio Ramos, futbol kariyerinde kazandığı sayısız kupa ve başarıyla tanınan bir futbolcudur. Hem kulüp düzeyinde hem de milli takım düzeyinde birçok büyük maçta önemli roller üstlenmiştir. Defansif yetenekleri, liderlik özellikleri ve kazanma arzusuyla futbol dünyasında saygı gören bir isim olmuştur.
+            </p>
+          </div>
+        </div>
       </div>
     </section>
   </body>

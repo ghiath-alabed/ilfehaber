@@ -19,6 +19,9 @@
       .dropdown-content a {
         color: black;
       }
+      .text {
+        color: black;
+      }
     </style>
   </head>
 
@@ -37,7 +40,6 @@
               <a href="../biography.php" class="navbar-link" title="Oyuncuların Hayat Özti" target="_self"> <!-- _blank -->
                 Biography
               </a>
-              
             </nav>
             <div>
               <?php
@@ -82,6 +84,22 @@
               ?>
             </div>
         </header>
+      </div>
+
+      <div class="ozet-container">
+        <div class="ozet-box">
+          <h2 class="player-name">KYLIAN MBAPPE</h2>
+          <div class="ozet-metni">
+            <p class="text">
+              Kylian Mbappé, 20 Aralık 1998'de Fransa'nın Paris şehrinde doğdu. Futbola küçük yaşta başladı ve AS Bondy kulübünün altyapısında futbol yeteneklerini geliştirdi. Hızla dikkatleri üzerine çeken Mbappé, 2015 yılında AS Monaco'nun genç takımına transfer oldu.
+              Mbappé, AS Monaco'da hızla yükselen bir yıldız haline geldi. 2016-2017 sezonunda Monaco ile Ligue 1 şampiyonluğu yaşadı ve takımın başarısında büyük rol oynadı. Aynı sezon UEFA Şampiyonlar Ligi'nde de etkileyici performanslar sergileyerek dünya futbolunun dikkatini çekti.
+              2017 yazında Mbappé, Paris Saint-Germain (PSG) takımına transfer oldu. PSG ile birlikte Fransa Ligue 1'de birçok şampiyonluk yaşadı. Hücum hattında etkili bir oyuncu olarak göze çarpan Mbappé, hızı, çevikliği ve bitiricilik becerisiyle tanınır. Aynı zamanda genç yaşına rağmen büyük maçlarda ve uluslararası platformlarda önemli goller atmıştır.
+              Milli takım düzeyinde de Mbappé, Fransa Milli Takımı formasını giymektedir. 2018 FIFA Dünya Kupası'nda Fransa Milli Takımı ile büyük başarıya imza attı. Turnuvanın en genç oyuncularından biri olarak ön plana çıkan Mbappé, performansıyla takımını şampiyonluğa taşıdı ve aynı zamanda turnuvanın en iyi genç oyuncusu seçildi.
+              Mbappé, hızı, çevikliği, top kontrolü ve bitiricilik yetenekleriyle tanınır. Sahada hızlı bir şekilde dripling yapabilen, güçlü bir vuruşa sahip olan ve akıllıca pozisyon alan bir oyuncudur. Genç yaşına rağmen futbol dünyasının en parlak yeteneklerinden biri olarak kabul edilir.
+              Kylian Mbappé, olağanüstü yetenekleri ve başarılarıyla genç yaşına rağmen dünya futbolunun en tanınmış oyuncularından biri haline gelmiştir. Gelecekte de kariyerinin zirvesinde olması beklenen Mbappé, futbol dünyasında heyecan verici bir geleceğe sahip olan bir oyuncudur.
+            </p>
+          </div>
+        </div>
       </div>
     </section>
   </body>

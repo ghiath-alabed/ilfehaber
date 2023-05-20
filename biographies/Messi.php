@@ -37,7 +37,6 @@
               <a href="../biography.php" class="navbar-link" title="Oyuncuların Hayat Özti" target="_self"> <!-- _blank -->
                 Biography
               </a>
-              
             </nav>
             <div>
               <?php
@@ -83,6 +82,24 @@
             </div>
         </header>
       </div>
+      
+      <div class="ozet-container">
+        <div class="ozet-box">
+          <h2 class="player-name">LIONEL MESSI</h2>
+          <div class="ozet-metni">
+            <p class="text">
+              Lionel Messi, 24 Haziran 1987'de Arjantin'in Rosario şehrinde doğdu. Futbola çok küçük yaşta başladı ve Arjantin'deki Newell's Old Boys kulübünde yetişti. Genç yaşta gösterdiği yetenekle dikkat çekti ve 2003 yılında sadece 16 yaşındayken FC Barcelona'nın genç takımına transfer oldu.
+              Messi, Barcelona'nın genç takımında hızla gelişti ve 2004 yılında A takıma yükseldi. Profesyonel kariyerinde Barcelona formasıyla sayısız başarı elde etti. İspanya La Liga'da on bir şampiyonluk yaşadı ve UEFA Şampiyonlar Ligi'nde dört kez zafer sevinci yaşadı. Takımıyla birlikte birçok Copa del Rey, Supercopa de España ve FIFA Kulüpler Dünya Kupası şampiyonluğu da kazandı.
+              Messi, sahip olduğu olağanüstü yetenekleri, hızı, çevikliği ve top kontrolüyle futbol dünyasında eşi benzeri görülmemiş bir oyuncu olarak kabul ediliyor. Çalışkanlığı, kararlılığı ve liderlik özellikleriyle de tanınır. Dribbling becerileri, gol atmaktaki ustalığı ve asist yapma yeteneğiyle birçok kez dünyanın en iyi futbolcusu seçildi.
+              Milli takım düzeyinde, Arjantin formasıyla da büyük başarılara imza attı. 2005 FIFA 20 Yaş Altı Dünya Kupası'nda Arjantin'i şampiyonluğa taşıdı , 2008 Pekin Olimpiyatları'nda altın madalya kazandı , 2021 brezilya kupa amerikayi ve 2022 de çok beklediği dünya kupasını kazandı. Ayrıca 2014 FIFA Dünya Kupası'nda Arjantin'i finale taşıdı.
+              2019-2020 sezonunun sonunda, uzun yıllar boyunca Barcelona'da forma giyen Messi, kulüpten ayrılma kararı aldı ve 2021 yazında Paris Saint-Germain (PSG) takımına transfer oldu. PSG'de de başarılı performansını sürdürdü ve takımıyla birçok önemli kupa mücadelesine katıldı.
+              Messi, futbol kariyeri boyunca birçok rekor kırdı. İspanya La Liga'da en çok gol atan oyuncu, bir sezon içinde en çok gol atan oyuncu, Barcelona'da en çok gol atan oyuncu gibi birçok rekorun sahibidir. Aynı zamanda Arjantin Milli Takımı'nda da en çok gol atan oyuncudur.
+              Lionel Messi, futbol tarihindeki en büyük oyuncusu olarak kabul edilmektedir. Kariyeri boyunca birçok kişiye ilham vermiş ve futbol dünyasında büyük bir etki yaratmıştır.
+            </p>
+          </div>
+        </div>
+      </div>
+
     </section>
   </body>
   <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
