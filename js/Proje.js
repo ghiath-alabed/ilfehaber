@@ -1,8 +1,3 @@
-function showElement() {
-  var element = document.getElementById("myElement");
-  element.classList.remove("hidden");
-}
-
 const logout = () => {
   // Send an AJAX request to the server to delete the session ID
   console.log("test");

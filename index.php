@@ -83,27 +83,6 @@
             </div>
         </header>
       </div>
-  
-      <script type="text/javascript" src="Proje.js"></script>
-      <div id="myElement">  <!-- class="hidden" -->
-        <footer>
-          <div class="iletisim">
-            <p>Iletişim</p>
-            <a href="https://www.facebook.com/profile.php?id=100012463111932" target="_blank">
-              <i class="fa-brands fa-facebook"></i>
-            </a>
-            <a href="https://www.youtube.com/channel/UCcepN48Nslzt_MoXj_6m3Dg" target="_blank">
-              <i class="fa-brands fa-youtube"></i>
-            </a>
-            <a href="https://twitter.com/ilyaselabed" target="_blank">
-              <i class="fa-brands fa-twitter"></i>
-            </a>
-            <a href="https://www.instagram.com/1alabed0/" target="_blank">
-              <i class="fa-brands fa-instagram"></i>
-            </a>
-          </div>
-        </footer>
-      </div>
     </section>
   </body>
   <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
