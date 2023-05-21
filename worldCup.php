@@ -79,6 +79,27 @@
             </div>
         </header>
       </div>
+
+      <div class="cup-container">
+        <div class="cup-box">
+          <a href="Matches/Grup.php" class="tournament-name">Grup Maçları</a>
+        </div>
+        <div class="cup-box">
+          <a href="Matches/16Turu.php" class="tournament-name">16 Turu</a>
+        </div>
+        <div class="cup-box">
+          <a href="Matches/ÇeyrekFinal.php" class="tournament-name">Çeyrek Final</a>
+        </div>
+        <div class="cup-box">
+          <a href="Matches/YarıFinal.php" class="tournament-name">Yarı Final</a>
+        </div>
+        <div class="cup-box">
+          <a href="Matches/3.lükMaçı.php" class="tournament-name">Üçüncülük Maçı</a>
+        </div>
+        <div class="cup-box">
+          <a href="Matches/Final.php" class="tournament-name">Final</a>
+        </div>
+      </div>
     </section>
   </body>
   <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>

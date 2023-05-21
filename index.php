@@ -82,6 +82,32 @@
             </div>
         </header>
       </div>
+
+      <div class="cup-container">
+        <div class="cup-box">
+          <h2 class="tournament-name">Grup Maçları</h2>
+          <div class="cup-metni">
+            <p class="text">
+              
+            </p>
+          </div>
+        </div>
+        <div class="cup-box">
+          <h2 class="tournament-name">16 Turu</h2>
+          <div class="cup-metni">
+            <p class="text">
+              
+            </p>
+          </div>
+        </div>
+        <div class="cup-box">
+          <h2 class="tournament-name">Çeyrek Final</h2>
+          <div class="cup-metni">
+            <p class="text">
+              
+            </p>
+          </div>
+        </div>
     </section>
   </body>
   <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>

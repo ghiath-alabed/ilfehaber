@@ -252,6 +252,55 @@ a:active{
   font-weight: bold;
 }
 
+.cup-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 75vh;
+}
+.cup-box{
+  margin: 10px;
+  width: 25%;
+  height: 80%;
+  background-color: transparent;
+  border: 3px solid rgba(255,255,255,0.5);
+  border-radius: 20px;
+  backdrop-filter: blur(15px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 75px;
+}
+.tournament-name {
+  font-weight: bold;
+  font-size: 40px;
+  order: -1;
+}
+
+.grup-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 75vh;
+}
+.grup-box{
+  margin: 10px;
+  width: 85%;
+  height: 100%;
+  background-color: transparent;
+  border: 3px solid rgba(255,255,255,0.5);
+  border-radius: 20px;
+  backdrop-filter: blur(15px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 75px;
+}
+
 footer {
   position: relative;
   margin-top: 50px;
