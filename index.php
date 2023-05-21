@@ -19,6 +19,17 @@
       .dropdown-content a {
         color: black;
       }
+      .cup-container{
+        height: 100hz;
+      }
+      .cup-box{
+        margin-top: 250px;
+        background-color: rgba(255,255,255,0.5);
+      }
+      .tournament-name {
+        background-color: transparent;
+        color: black;
+      }
     </style>
   </head>
 
@@ -85,29 +96,13 @@
 
       <div class="cup-container">
         <div class="cup-box">
-          <h2 class="tournament-name">Grup Maçları</h2>
-          <div class="cup-metni">
-            <p class="text">
-              
-            </p>
-          </div>
+          <a href="News/transferNews.php" class="tournament-name">Transfer Haberleri</a>
         </div>
         <div class="cup-box">
-          <h2 class="tournament-name">16 Turu</h2>
-          <div class="cup-metni">
-            <p class="text">
-              
-            </p>
-          </div>
+          <a href="News/dailyNews.php" class="tournament-name">Gündem</a>
         </div>
-        <div class="cup-box">
-          <h2 class="tournament-name">Çeyrek Final</h2>
-          <div class="cup-metni">
-            <p class="text">
-              
-            </p>
-          </div>
-        </div>
+      </div>
+
     </section>
   </body>
   <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>

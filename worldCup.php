@@ -16,6 +16,13 @@
         background: url('css/images/worldCup-2022.jpg') no-repeat center center fixed;
         background-size: cover;
       }
+      .cup-box{
+        background-color: rgba(255,255,255,0.5);
+      }
+      .tournament-name {
+        background-color: transparent;
+        color: black;
+      }
     </style>
   </head>
 
@@ -90,6 +97,8 @@
         <div class="cup-box">
           <a href="Matches/ÇeyrekFinal.php" class="tournament-name">Çeyrek Final</a>
         </div>
+      </div>
+      <div class="cup-container">
         <div class="cup-box">
           <a href="Matches/YarıFinal.php" class="tournament-name">Yarı Final</a>
         </div>

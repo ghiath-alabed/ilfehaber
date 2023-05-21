@@ -22,6 +22,12 @@
       .text {
         color: black;
       }
+      .ozet-box{
+        background-color: rgba(255,255,255,0.5);
+      }
+      .text{
+        color: black;
+      }
     </style>
   </head>
 

@@ -217,7 +217,7 @@ a:active{
   justify-content: center;
   align-items: center;
   text-align: center;
-  height: 75vh;
+  height: 100%;
 }
 .ozet-box{
   margin: 10px;
@@ -254,7 +254,7 @@ a:active{
   justify-content: center;
   align-items: center;
   text-align: center;
-  height: 75vh;
+  height: 35vh;
 }
 .cup-box{
   margin: 10px;
