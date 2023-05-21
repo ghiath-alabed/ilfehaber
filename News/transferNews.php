@@ -61,7 +61,7 @@
                     $row = mysqli_fetch_assoc($result);
                     $email = $row['email'];
                     $username = $row['username'];
-                    echo "<script src=\"js/Proje.js\"></script>";
+                    echo "<script src=\"../js/Proje.js\"></script>";
                     // Here add header html
                     echo '
                       <div class="dropdown">
@@ -72,7 +72,7 @@
                             <a href="#" onclick="logout()">Logout</a>
                           </div>
                           <div class="dropdown-content Login-button" style="margin-top: 47px;">
-                            <a href="contact.php" onclick="showElement()">
+                            <a href="../contact.php" onclick="showElement()">
                             <ion-icon name="help-circle-outline"></ion-icon>
                               About Us
                             </a>
