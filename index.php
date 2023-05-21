@@ -96,10 +96,10 @@
 
       <div class="cup-container">
         <div class="cup-box">
-          <a href="News/transferNews.php" class="tournament-name">Transfer Haberleri</a>
+          <a href="News/transferNews.php" class="tournament-name">Transfer News</a>
         </div>
         <div class="cup-box">
-          <a href="News/dailyNews.php" class="tournament-name">Gündem</a>
+          <a href="News/dailyNews.php" class="tournament-name">Daily News</a>
         </div>
       </div>
 
