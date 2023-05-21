@@ -8,7 +8,7 @@
     <title>İLFE.Haber</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="icon" href="css/images/icon.png" type="image/x-icon">
+    <link rel="icon" href="../css/images/icon.png" type="image/x-icon">
     <style>
       body {
         font-family: Arial;
@@ -89,7 +89,6 @@
       <div class="ozet-container">
         <div class="ozet-box">
           <h2 class="player-name">ANTOINE GRIEZMANN</h2>
-          <div class="ozet-metni">
             <p class="text">
               Antoine Griezmann, 21 Mart 1991'de Fransa'nın Mâcon şehrinde doğdu. Futbola küçük yaşta başladı ve Fransa'nın Real Sociedad kulübünün altyapısında yetişti. 2009 yılında Real Sociedad'ın A takımına yükseldi ve burada etkileyici bir performans sergileyerek dikkat çekti.
               Griezmann, Real Sociedad'da oynadığı dönemde önemli bir gelişim kaydetti. Hızlı, çevik ve teknik bir oyuncu olarak tanınmaya başladı. 2013-2014 sezonunda La Liga'da 16 gol atarak dikkatleri üzerine çekti ve Avrupa'nın önde gelen kulüplerinin ilgisini çekti.
@@ -98,7 +97,6 @@
               2019 yazında Griezmann, FC Barcelona'ya transfer oldu. Barcelona formasıyla La Liga'da mücadele etti ve takımının hücum hattında önemli bir rol üstlendi. Griezmann, Barcelona'da hücum becerileri, gol atma yeteneği ve takım oyunculuğuyla tanınır.
               Antoine Griezmann, sahip olduğu hız, çeviklik ve teknik becerileriyle tanınan etkileyici bir futbolcudur. Top kontrolü, şut yeteneği ve gol atmada etkili olmasıyla ön plana çıkar. Kariyeri boyunca birçok önemli maçta ve turnuvada başarılı performanslar sergileyen Griezmann, Fransa ve Barcelona'nın önemli oyuncularından biri olarak kabul edilir.
             </p>
-          </div>
         </div>
       </div>
     </section>

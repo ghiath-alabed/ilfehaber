@@ -8,7 +8,7 @@
     <title>İLFE.Haber</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="icon" href="css/images/icon.png" type="image/x-icon">
+    <link rel="icon" href="../css/images/icon.png" type="image/x-icon">
     <style>
       body {
         font-family: Arial;
@@ -86,7 +86,6 @@
       <div class="ozet-container">
         <div class="ozet-box">
           <h2 class="player-name">GERARD PIQUE</h2>
-          <div class="ozet-metni">
             <p class="text">
               Gerard Piqué, 2 Şubat 1987'de İspanya'nın Barselona şehrinde doğdu. Futbola FC Barcelona'nın altyapısında başladı. Genç yaşlarda gösterdiği yeteneklerle dikkat çekti ve hızla yükselen bir futbol kariyerine sahip oldu.
               Piqué, 2004 yılında FC Barcelona'nın A takımına yükseldi. İlk dönemlerinde oyun tecrübesi kazanmak için Manchester United'a kiralık olarak gönderildi ve burada Premier League şampiyonluğu yaşadı. 2008 yılında FC Barcelona'ya geri döndü ve takımının başarılarına büyük katkıda bulundu.
@@ -95,7 +94,6 @@
               Piqué, güçlü fiziği, iyi bir top kontrolü ve pozisyon bilinciyle tanınır. Defans hattında liderlik özellikleri gösteren bir oyuncu olarak sahada etkili bir şekilde pozisyon alır. Ayrıca hava topu mücadelelerinde de başarılıdır. Kariyeri boyunca defansif gücünü ve top dağıtma becerilerini göstermiş bir futbolcudur.
               Gerard Piqué, FC Barcelona'nın sembol isimlerinden biri haline gelmiştir. Kulüp ile birçok önemli başarı yaşayan ve milli takımda da ülkesini en iyi şekilde temsil eden bir futbolcudur. Hem kulüp düzeyinde hem de milli takım düzeyinde kazandığı şampiyonluklarla futbol kariyerinde iz bırakmıştır.
             </p>
-          </div>
         </div>
       </div>
     </section>

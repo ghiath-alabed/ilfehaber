@@ -8,7 +8,7 @@
     <title>İLFE.Haber</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="icon" href="css/images/icon.png" type="image/x-icon">
+    <link rel="icon" href="../css/images/icon.png" type="image/x-icon">
     <style>
       body {
         font-family: Arial;
@@ -89,7 +89,6 @@
       <div class="ozet-container">
         <div class="ozet-box">
           <h2 class="player-name">SERGIO RAMOS</h2>
-          <div class="ozet-metni">
             <p class="text">
               Sergio Ramos, 30 Mart 1986'da İspanya'nın Camas şehrinde doğdu. Futbola Sevilla'nın altyapısında başladı. Genç yaşta gösterdiği yeteneklerle dikkat çeken Ramos, 2004 yılında Sevilla'nın A takımına yükseldi.
               Ramos, Sevilla'da geçirdiği iki sezon boyunca hızla yükselen bir futbol kariyerine sahip oldu. Defans hattında etkileyici performanslar sergiledi ve kısa sürede dünya futbolunun dikkatini çekti. 2005-2006 sezonunda Sevilla ile UEFA Kupası'nı kazandı ve takımının başarısında önemli bir rol oynadı.
@@ -98,7 +97,6 @@
               Ramos, defansif becerilerinin yanı sıra gol atma yeteneğiyle de tanınır. Güçlü hava topu mücadeleleri ve sert müdahaleleriyle rakipleri üzerinde baskı kurar. Aynı zamanda liderlik özellikleri gösteren bir oyuncudur ve takımın savunma hattında önemli bir figürdür.
               Sergio Ramos, futbol kariyerinde kazandığı sayısız kupa ve başarıyla tanınan bir futbolcudur. Hem kulüp düzeyinde hem de milli takım düzeyinde birçok büyük maçta önemli roller üstlenmiştir. Defansif yetenekleri, liderlik özellikleri ve kazanma arzusuyla futbol dünyasında saygı gören bir isim olmuştur.
             </p>
-          </div>
         </div>
       </div>
     </section>

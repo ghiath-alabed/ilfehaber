@@ -8,7 +8,7 @@
     <title>İLFE.Haber</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="icon" href="css/images/icon.png" type="image/x-icon">
+    <link rel="icon" href="../css/images/icon.png" type="image/x-icon">
     <style>
       body {
         font-family: Arial;
@@ -89,7 +89,6 @@
       <div class="ozet-container">
         <div class="ozet-box">
           <h2 class="player-name">KYLIAN MBAPPE</h2>
-          <div class="ozet-metni">
             <p class="text">
               Kylian Mbappé, 20 Aralık 1998'de Fransa'nın Paris şehrinde doğdu. Futbola küçük yaşta başladı ve AS Bondy kulübünün altyapısında futbol yeteneklerini geliştirdi. Hızla dikkatleri üzerine çeken Mbappé, 2015 yılında AS Monaco'nun genç takımına transfer oldu.
               Mbappé, AS Monaco'da hızla yükselen bir yıldız haline geldi. 2016-2017 sezonunda Monaco ile Ligue 1 şampiyonluğu yaşadı ve takımın başarısında büyük rol oynadı. Aynı sezon UEFA Şampiyonlar Ligi'nde de etkileyici performanslar sergileyerek dünya futbolunun dikkatini çekti.
@@ -98,7 +97,6 @@
               Mbappé, hızı, çevikliği, top kontrolü ve bitiricilik yetenekleriyle tanınır. Sahada hızlı bir şekilde dripling yapabilen, güçlü bir vuruşa sahip olan ve akıllıca pozisyon alan bir oyuncudur. Genç yaşına rağmen futbol dünyasının en parlak yeteneklerinden biri olarak kabul edilir.
               Kylian Mbappé, olağanüstü yetenekleri ve başarılarıyla genç yaşına rağmen dünya futbolunun en tanınmış oyuncularından biri haline gelmiştir. Gelecekte de kariyerinin zirvesinde olması beklenen Mbappé, futbol dünyasında heyecan verici bir geleceğe sahip olan bir oyuncudur.
             </p>
-          </div>
         </div>
       </div>
     </section>

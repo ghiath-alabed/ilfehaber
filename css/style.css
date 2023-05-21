@@ -132,7 +132,6 @@ a:active{
   text-align: center;
   height: 75vh;
 }
-
 .contact-box{
   margin: 10px;
   width: 400px;
@@ -213,10 +212,6 @@ a:active{
   color: rgb(62, 128, 190);
 }
 
-.ozet-metni {
-  padding: 20px;
-  border-radius: 10px;
-}
 .ozet-container{
   display: flex;
   justify-content: center;
@@ -244,6 +239,8 @@ a:active{
   order: -1;
 }
 .text {
+  padding: 20px;
+  border-radius: 10px;
   font-family: Arial;
   font-size: 1.1rem;
   text-indent: 20px;

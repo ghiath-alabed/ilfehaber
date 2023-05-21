@@ -8,7 +8,7 @@
     <title>İLFE.Haber</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="icon" href="css/images/icon.png" type="image/x-icon">
+    <link rel="icon" href="../css/images/icon.png" type="image/x-icon">
     <style>
       body {
         font-family: Arial;
@@ -86,7 +86,6 @@
       <div class="ozet-container">
         <div class="ozet-box">
           <h2 class="player-name">LIONEL MESSI</h2>
-          <div class="ozet-metni">
             <p class="text">
               Lionel Messi, 24 Haziran 1987'de Arjantin'in Rosario şehrinde doğdu. Futbola çok küçük yaşta başladı ve Arjantin'deki Newell's Old Boys kulübünde yetişti. Genç yaşta gösterdiği yetenekle dikkat çekti ve 2003 yılında sadece 16 yaşındayken FC Barcelona'nın genç takımına transfer oldu.
               Messi, Barcelona'nın genç takımında hızla gelişti ve 2004 yılında A takıma yükseldi. Profesyonel kariyerinde Barcelona formasıyla sayısız başarı elde etti. İspanya La Liga'da on bir şampiyonluk yaşadı ve UEFA Şampiyonlar Ligi'nde dört kez zafer sevinci yaşadı. Takımıyla birlikte birçok Copa del Rey, Supercopa de España ve FIFA Kulüpler Dünya Kupası şampiyonluğu da kazandı.
@@ -96,7 +95,6 @@
               Messi, futbol kariyeri boyunca birçok rekor kırdı. İspanya La Liga'da en çok gol atan oyuncu, bir sezon içinde en çok gol atan oyuncu, Barcelona'da en çok gol atan oyuncu gibi birçok rekorun sahibidir. Aynı zamanda Arjantin Milli Takımı'nda da en çok gol atan oyuncudur.
               Lionel Messi, futbol tarihindeki en büyük oyuncusu olarak kabul edilmektedir. Kariyeri boyunca birçok kişiye ilham vermiş ve futbol dünyasında büyük bir etki yaratmıştır.
             </p>
-          </div>
         </div>
       </div>
 

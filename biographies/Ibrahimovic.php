@@ -8,7 +8,7 @@
     <title>İLFE.Haber</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="icon" href="css/images/icon.png" type="image/x-icon">
+    <link rel="icon" href="../css/images/icon.png" type="image/x-icon">
     <style>
       body {
         font-family: Arial;
@@ -89,7 +89,6 @@
       <div class="ozet-container">
         <div class="ozet-box">
           <h2 class="player-name">IBRAHIMOVIC</h2>
-          <div class="ozet-metni">
             <p class="text">
               Zlatan Ibrahimović, 3 Ekim 1981'de İsveç'in Malmö şehrinde doğdu. Futbola yerel bir takım olan Malmö FF'nin altyapısında başladı. Hızla yetenekleriyle dikkat çeken Ibrahimović, 1999 yılında Malmö FF'nin A takımına yükseldi.
               İbrahimović, Malmö FF'de sergilediği etkileyici performansla Avrupa'nın önde gelen kulüplerinin dikkatini çekti. 2001 yılında Hollanda'nın Ajax kulübüne transfer oldu. Ajax'ta oynadığı dönemde başarılı bir performans sergileyerek Hollanda Eredivisie şampiyonluğu yaşadı.
@@ -99,7 +98,6 @@
               Ibrahimović, futbol kariyerindeki güçlü fiziği, teknik becerileri ve gol atan yeteneğiyle tanınır. Olağanüstü vuruşları ve akrobatik hareketleriyle bilinir. Kendine güveni yüksek olan ve liderlik özellikleri gösteren bir oyuncudur.
               Zlatan Ibrahimović, futbol dünyasında uzun bir kariyere sahip olan ve birçok önemli kulüpte başarılar elde etmiş bir futbolcudur. Kendine özgü kişiliği ve oyun tarzıyla futbolseverlerin ilgisini çeken bir isim olmuştur.
             </p>
-          </div>
         </div>
       </div>
     </section>

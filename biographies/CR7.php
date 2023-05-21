@@ -8,7 +8,7 @@
     <title>İLFE.Haber</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="icon" href="css/images/icon.png" type="image/x-icon">
+    <link rel="icon" href="../css/images/icon.png" type="image/x-icon">
     <style>
       body {
         font-family: Arial;
@@ -86,7 +86,6 @@
       <div class="ozet-container">
         <div class="ozet-box">
           <h2 class="player-name">CRISTIANO RONALDO</h2>
-          <div class="ozet-metni">
             <p class="text">
               Cristiano Ronaldo, 5 Şubat 1985'te Portekiz'in Madeira adasında doğdu. Futbola küçük yaşlarda başladı ve Sporting Lizbon genç takımında yetişti. Hızla gelişen yetenekleriyle dikkat çeken Ronaldo, 2003 yılında 18 yaşındayken Sporting Lizbon'dan İngiliz kulübü Manchester United'a transfer oldu.
               Manchester United'da oynadığı dönemde büyük başarılar elde etti. 2008'de UEFA Şampiyonlar Ligi'ni kazanmalarında önemli bir rol oynadı ve takımıyla üç Premier League şampiyonluğu yaşadı. Ronaldo aynı zamanda 2008'de FIFA Ballon d'Or (Altın Top) ödülünü kazanarak dünyanın en iyi futbolcusu seçildi.
@@ -95,7 +94,6 @@
               Milli takım düzeyinde de Cristiano Ronaldo, Portekiz Milli Takımı formasıyla birçok başarıya imza attı. 2016 yılında Portekiz Milli Takımı ile UEFA Avrupa Şampiyonası'nı kazandı. Ayrıca Portekiz'i FIFA Konfederasyonlar Kupası'nda ikincilik elde ettiği 2017'de ve UEFA Uluslar Ligi'nde şampiyon olduğu 2019'da temsil etti.
               Cristiano Ronaldo, güçlü fiziği, hızı, atletizmi ve şut yetenekleriyle tanınır. Olağanüstü bir golcüdür ve kafa vuruşları da dahil olmak üzere çeşitli şekillerde gol atma becerisine sahiptir. Kariyeri boyunca birçok rekor kıran Ronaldo, futbol dünyasında eşi benzeri görülmemiş bir etki yaratmış ve dünyanın en iyi futbolcularından biri olarak kabul edilmektedir.
             </p>
-          </div>
         </div>
       </div>
     </section>

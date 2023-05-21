@@ -8,7 +8,7 @@
     <title>İLFE.Haber</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="icon" href="css/images/icon.png" type="image/x-icon">
+    <link rel="icon" href="../css/images/icon.png" type="image/x-icon">
     <style>
       body {
         font-family: Arial;
@@ -86,7 +86,6 @@
       <div class="ozet-container">
         <div class="ozet-box">
           <h2 class="player-name">NEYMAR JR</h2>
-          <div class="ozet-metni">
             <p class="text">
               Neymar, tam adıyla Neymar da Silva Santos Júnior, 5 Şubat 1992'de Brezilya'nın Mogi das Cruzes şehrinde doğdu. Futbola küçük yaşta başladı ve Santos kulübünün genç takımında yetişti. Hızla dikkat çeken yetenekleriyle tanınan Neymar, 2009 yılında Santos'un A takımına yükseldi.
               Santos'ta oynadığı dönemde büyük başarılar elde etti. 2010 ve 2011 yıllarında Santos ile Copa do Brasil şampiyonluğu yaşadı. 2011'de ise Copa Libertadores'yi kazanarak takımını Güney Amerika'nın en prestijli kulüp turnuvasında zaferle tanıştırdı. Ayrıca 2011 yılında Güney Amerika'nın en iyi futbolcusu seçilerek olağanüstü yetenekleriyle dünya çapında tanınmaya başladı.
@@ -95,7 +94,6 @@
               Milli takım düzeyinde Neymar, Brezilya Milli Takımı formasıyla da başarılar elde etti. 2013 FIFA Konfederasyonlar Kupası'nda şampiyonluğa ulaştı ve turnuvanın en iyi oyuncusu seçildi. Ayrıca 2019 Copa America'da da Brezilya'yı şampiyonluğa taşıdı.
               Neymar, hızı, çevikliği, top kontrolü ve sıra dışı dribbling yetenekleriyle tanınır. Sahada yaratıcı ve etkileyici bir oyuncu olarak göze çarpar. Aynı zamanda gol atmada da başarılıdır ve hücum hattında etkili bir şekilde pozisyon alır. Neymar, dünya futbolunda genç yaşta kazandığı ün ve olağanüstü yetenekleriyle futbolseverlerin ilgisini çeken bir oyuncudur.
             </p>
-          </div>
         </div>
       </div>
     </section>

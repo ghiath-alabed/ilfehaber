@@ -8,7 +8,7 @@
     <title>İLFE.Haber</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="icon" href="css/images/icon.png" type="image/x-icon">
+    <link rel="icon" href="../css/images/icon.png" type="image/x-icon">
     <style>
       body {
         font-family: Arial;
@@ -89,7 +89,6 @@
       <div class="ozet-container">
         <div class="ozet-box">
           <h2 class="player-name">LUIS SUAREZ</h2>
-          <div class="ozet-metni">
             <p class="text">
               Luis Suárez, 24 Ocak 1987'de Uruguay'ın Salto şehrinde doğdu. Futbola yerel bir kulüp olan Nacional'in altyapısında başladı. Genç yaşta gösterdiği yeteneklerle dikkat çeken Suárez, 2005 yılında Nacional'in A takımına yükseldi.
               2006 yılında Hollanda'nın Groningen kulübüne transfer olan Suárez, burada etkileyici bir performans sergiledi ve gol atan yeteneğiyle ön plana çıktı. Performansıyla dikkat çeken Suárez, 2007 yılında Eredivisie'nin güçlü takımlarından Ajax'a transfer oldu.
@@ -100,7 +99,6 @@
               Luis Suárez, hızlı ve teknik bir forvet oyuncusu olarak tanınır. Güçlü vuruşları, gol atan becerileri ve rakip savunmaları zorlayan oyun tarzıyla bilinir. Aynı zamanda mücadeleci ve tutkulu bir oyuncudur.
               Suárez, futbol kariyeri boyunca birçok önemli kulüpte başarılar elde etmiş bir futbolcudur. Hem kulüp düzeyinde hem de milli takım düzeyinde önemli maçlarda ve turnuvalarda etkili performanslar sergilemiştir. Olağanüstü yetenekleriyle tanınan Suárez, futbol dünyasında iz b
             </p>
-          </div>
         </div>
       </div>
     </section>
